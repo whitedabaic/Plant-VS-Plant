@@ -1,0 +1,8 @@
+﻿  main.cpp
+F:\VisualStudioCode\TutorialZero_4\TutorialZero_4\Camera.h(38,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\VisualStudioCode\TutorialZero_4\TutorialZero_4\Camera.h(39,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  TutorialZero_4.vcxproj -> F:\VisualStudioCode\TutorialZero_4\x64\Debug\TutorialZero_4.exe
